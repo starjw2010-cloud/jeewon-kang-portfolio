@@ -94,6 +94,8 @@ ChatGPT·Claude는 조사와 요구사항 정리에, Claude Code·Codex는 Proto
 
 AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에서 검증한 결과를 구분합니다. [AI-assisted Delivery](tracks/ai-assisted-delivery.md)와 [SemiFlow 사례](case-studies/06-ai-assisted-control-tower.md)에서 구체적인 방식과 범위를 설명합니다.
 
+[SemiFlow 상세 사례](public-projects/semiflow-deep-dive.md)에는 36,000건의 합성 주문을 활용한 업무 설계, 질문별 근거 검색과 사실 검증, 구현·검수·운영 전환의 판단 기준을 정리했습니다.
+
 ## Writing & Learning
 
 - **『슬랙, 일의 언어를 바꾸다』** — 2026.07 출간. Slack 도입·운영 경험을 고객이 이해할 수 있는 콘텐츠로 정리했습니다.

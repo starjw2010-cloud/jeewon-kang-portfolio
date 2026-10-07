@@ -2,7 +2,7 @@
 
 ## Position
 
-AI Coding Agent를 사용한 결과를 '직접 코딩'으로 표현하지 않습니다.
+AI Coding Agent를 활용해 문제정의부터 구현 요청, 결과 검토와 다음 단계 판단까지 연결합니다.
 
 제가 설명할 수 있는 역할은 다음과 같습니다.
 
@@ -45,3 +45,9 @@ What was tested
 What was merged
 What is still unverified
 ```
+
+## Representative Case — SemiFlow
+
+합성 제조 데이터 기반 운영 관제 프로젝트에서 사용자별 업무 질문, 데이터·권한 범위와 수용 기준을 정리했습니다. 기능 구현을 독립 검토·자동검증·변경 통합·실행 환경 확인으로 연결하는 관리 방식을 적용합니다.
+
+[제품 판단과 AI Delivery 상세 사례](../public-projects/semiflow-deep-dive.md)에서 업무 문제, 근거 검색·답변 검증과 운영 전환 기준을 설명합니다. 본인 역할과 AI-assisted 코드 구현의 구분은 [근거 기준](../EVIDENCE.md)을 따릅니다.
