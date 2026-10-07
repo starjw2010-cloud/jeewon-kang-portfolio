@@ -27,6 +27,10 @@ PoC에서 공용 시스템에 데이터를 쓸 수 있는 권한 범위를 발�
 ### Enterprise Grid
 Demo·교육 환경에서 Workspace, SSO, DLP, App policy 운영 경험이 있습니다. 환경의 실제 성격과 장기 운영 범위는 외부 문서에서 과장하지 않습니다.
 
+## Work Samples
+
+[Slack 자료 모음](../work-samples/slack/README.md)에는 [이관 준비와 작업 관리](../work-samples/slack/migration-readiness.md), [역할별 교육](../work-samples/slack/role-based-enablement.md), [도입 전 기술 확인과 사용자 안내](../work-samples/slack/technical-readiness.md)를 정리했습니다.
+
 ## Operating Principle
 
 장애를 빨리 닫는 것만큼 같은 문제가 반복되지 않도록 원인과 기준을 남기는 것을 중요하게 생각합니다.

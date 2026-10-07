@@ -8,7 +8,7 @@
 
 **먼저 볼 내용:** [Enterprise Customer Success](tracks/enterprise-customer-success.md) · [대표 사례](#selected-case-studies) · [AI 기술 이해와 검증](case-studies/06-ai-assisted-control-tower.md)
 
-**구조와 산출물:** [SemiFlow 아키텍처](public-projects/semiflow-architecture.md) · [Slack 도입·교육·운영 자료](work-samples/slack-delivery-and-enablement.md)
+**구조와 산출물:** [SemiFlow 아키텍처](public-projects/semiflow-architecture.md) · [Slack 자료 모음](work-samples/slack/README.md)
 
 *업데이트: 2026-10-07 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
 
@@ -74,7 +74,7 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 | [11. AI Adoption Review](case-studies/11-ai-adoption-review.md) | Case 01 PoC의 사용자 범위·측정 기간을 나누어 사용과 후속 확산 조건 분석 |
 | [12. Feedback-led Proposal](case-studies/12-feedback-led-proposal.md) | 고객 피드백에 따라 과제 주체·범위·시작 순서와 기대 가치를 재구성 |
 
-사례와 함께 [Slack 업무 산출물](work-samples/slack-delivery-and-enablement.md)에서 교육·관리자 가이드·서비스 구성·기술 설명 자료의 작성 방식을 볼 수 있습니다.
+사례와 함께 [Slack 자료 모음](work-samples/slack/README.md)에서 역할별 교육, 이관 사전조사, 기술 확인·사용자 안내, 집필·도식 설계의 상세 샘플을 볼 수 있습니다. [전체 산출물 요약](work-samples/slack-delivery-and-enablement.md)에는 서비스 구성과 제안 자료까지 정리했습니다.
 
 ## How I Work
 
@@ -105,6 +105,7 @@ AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에�
 ## Writing & Learning
 
 - **『슬랙, 일의 언어를 바꾸다』** — 2026.07 출간. Slack 도입·운영 경험을 고객이 이해할 수 있는 콘텐츠로 정리했습니다.
+- [집필과 도식 설계](work-samples/slack/writing-and-explanation.md) — 독자의 질문에 맞춘 설명 순서, 실행 자료와 제작 요구사항을 정리했습니다.
 - Salesforce·Slack 관련 자격, AI 기초·Agent·Workflow·솔루션 범위 설정 학습을 이어가고 있습니다.
 - [자격·학습 이력](professional-development.md) · [공개 기술 프로젝트](public-projects/README.md)
 
