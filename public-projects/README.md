@@ -43,6 +43,8 @@ https://github.com/starjw2010-cloud/campuscasedesk-slack
 
 [Read Product & AI Delivery Deep Dive](semiflow-deep-dive.md) — A–Z 프로젝트 해설을 바탕으로 업무 문제, 36,000건 합성 주문 데이터, 근거 검색·사실 검증, 변경 관리와 운영 전환 기준을 설명합니다.
 
+[View Architecture](semiflow-architecture.md) — Web·권한·업무 규칙·데이터·검색·모델·보고서의 관계와 답변 검증 순서도를 제공합니다.
+
 **Status:** 개인 R&D / Synthetic Sandbox · 2026.10.07 점검 자료 기준. 코드는 비공개이며, 실제 고객의 유료 구축·운영 실적이나 측정된 업무 절감 효과를 뜻하지 않습니다. 현재 가동 상태와 상용 운영 준비도는 별도 확인 대상입니다.
 
 ---

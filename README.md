@@ -8,6 +8,8 @@
 
 **먼저 볼 내용:** [Enterprise Customer Success](tracks/enterprise-customer-success.md) · [대표 사례](#selected-case-studies) · [AI 기술 이해와 검증](case-studies/06-ai-assisted-control-tower.md)
 
+**구조와 산출물:** [SemiFlow 아키텍처](public-projects/semiflow-architecture.md) · [Slack 도입·교육·운영 자료](work-samples/slack-delivery-and-enablement.md)
+
 *업데이트: 2026-10-07 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
 
 ## Customer Lifecycle Experience
@@ -69,6 +71,10 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 | [08. Account Expansion](case-studies/08-account-expansion.md) | 기존 교육 접점을 연구장비관리 PoC와 AI 지원 플랫폼 RFP로 구체화 |
 | [09. Support Service Design](case-studies/09-support-service-design.md) | 반복 운영 요청을 지원 범위·제공 방식·산정 기준이 있는 서비스로 설계 |
 | [10. Trial, Paid Conversion & Renewal](case-studies/10-trial-and-renewal.md) | 고객 수요에 맞춘 Trial·온보딩, 유료 전환과 갱신, 추가 교육 제안 회고 |
+| [11. AI Adoption Review](case-studies/11-ai-adoption-review.md) | Case 01 PoC의 사용자 범위·측정 기간을 나누어 사용과 후속 확산 조건 분석 |
+| [12. Feedback-led Proposal](case-studies/12-feedback-led-proposal.md) | 고객 피드백에 따라 과제 주체·범위·시작 순서와 기대 가치를 재구성 |
+
+사례와 함께 [Slack 업무 산출물](work-samples/slack-delivery-and-enablement.md)에서 교육·관리자 가이드·서비스 구성·기술 설명 자료의 작성 방식을 볼 수 있습니다.
 
 ## How I Work
 

@@ -4,6 +4,8 @@
 
 **더 자세히:** [제품 판단·AI 구조·검수·운영 전환 상세 사례](../public-projects/semiflow-deep-dive.md)
 
+**구조도:** [계층별 아키텍처와 근거 검증 흐름](../public-projects/semiflow-architecture.md)
+
 ## Context
 제조 운영 담당자가 주문, 생산, 자재, 출하 정보를 연결해 납기 위험을 조사하고 경영진에게 설명하는 과정을 다룬 프로젝트입니다.
 

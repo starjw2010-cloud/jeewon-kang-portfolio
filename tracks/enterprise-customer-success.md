@@ -7,11 +7,12 @@
 | 업무 | 수행 경험 | 사례 |
 |---|---|---|
 | Onboarding & Delivery | 관리자·사용자 요구 확인, 환경 구성, 단계별 교육, Migration 계획과 검증 | [2단계 온보딩](../case-studies/07-phased-onboarding.md), [대규모 이관](../case-studies/02-large-scale-migration.md) |
-| Adoption & Value Review | 사용 지표, 현장 인터뷰, 실제 업무 흐름과 도입 조건 점검 | [PoC 평가](../case-studies/05-pilot-retrospective.md), [수준별 교육](../case-studies/04-needs-to-program.md) |
+| Adoption & Value Review | 사용자 범위·측정 기간, 현장 인터뷰, 실제 업무 흐름과 도입 조건 점검 | [AI 사용·성과 점검](../case-studies/11-ai-adoption-review.md), [PoC 미전환 회고](../case-studies/05-pilot-retrospective.md) |
 | Risk & Stakeholder Coordination | 보안·권한 리스크 제한, 고객·기술팀·벤더 대응 조율, 제약과 후속 조치 공유 | [Enterprise PoC](../case-studies/01-enterprise-poc-security.md), [장애 대응](../case-studies/03-incident-and-escalation.md) |
 | Renewal & Account Development | Trial·유료 전환·갱신 지원, 구매 범위와 후속 교육 수요 검토 | [계약·갱신](../case-studies/10-trial-and-renewal.md) |
 | Expansion Opportunity | 교육 접점에서 발견한 업무 요구를 PoC·RFP로 구체화 | [후속 사업 기회](../case-studies/08-account-expansion.md) |
 | Customer Feedback & Service Improvement | 반복되는 운영 요청을 지원 범위와 서비스 제공 방식에 반영 | [운영지원 서비스 설계](../case-studies/09-support-service-design.md) |
+| Proposal & Stakeholder Alignment | 고객 피드백에 따라 과제 주체·범위·실행 순서 조정 | [제안 재설계](../case-studies/12-feedback-led-proposal.md) |
 
 ## Business–Technology Communication
 
@@ -28,3 +29,5 @@ AI 도입에서는 사용할 데이터와 접근 권한, 답변의 근거, 사�
 각 고객의 결과를 개별적으로 설명합니다. 완료한 온보딩·Migration, 계약·갱신 지원, 아직 제안 단계인 확장 기회를 구분합니다. 팀 전체 매출이나 계약 건수를 개인의 갱신률·NRR로 환산하지 않습니다.
 
 [고객 점검 프레임](../frameworks/customer-success-review.md) · [전체 포트폴리오](../README.md)
+
+[Slack 도입·교육·운영 산출물](../work-samples/slack-delivery-and-enablement.md)에서 교육과 관리자 인계, 연동 가이드와 서비스 설계 자료를 볼 수 있습니다.
