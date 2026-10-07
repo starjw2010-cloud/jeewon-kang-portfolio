@@ -25,7 +25,7 @@
 PoC에서 공용 시스템에 데이터를 쓸 수 있는 권한 범위를 발견하고 위험 기능을 먼저 중단한 뒤 Permission Set을 확인했습니다.
 
 ### Enterprise Grid
-Demo·교육 환경에서 Workspace, SSO, DLP, App policy 운영 경험이 있습니다. 환경의 실제 성격과 장기 운영 범위는 외부 문서에서 과장하지 않습니다.
+Workspace 구조, 인증·접근, DLP와 앱 정책 등 관리·보안 요건을 정리하고 Demo·교육·검토 자료로 설명했습니다. [조직·운영 설계](../work-samples/slack/enterprise-architecture.md)와 [기술 확인 자료](../work-samples/slack/technical-readiness.md)에 설명 범위와 근거를 정리했습니다.
 
 ## Work Samples
 

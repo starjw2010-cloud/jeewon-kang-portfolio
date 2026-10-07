@@ -40,7 +40,7 @@ Salesforce 관련 제안·컨설팅에서 Slack 사업 리드와 AI·AX 컨설�
 사용자·권한, Object·Field, Page Layout, Report·Dashboard 등 관리자 운영과 현업 요구사항 반영을 지원했습니다.
 
 ### Salesforce Korea
-**Sales Development Representative · 2020–2021**
+**Sales Development Representative · 2020.06–2021.12**
 
 Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qualification, Pipeline 개발을 담당했습니다. Account Executive·Solution Engineer와 협업해 고객의 업무 과제를 후속 데모·제안·기술 검토로 연결했습니다.
 
@@ -61,7 +61,7 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 
 ## Selected Case Studies
 
-각 사례에는 고객 문제, 본인의 역할, 수행 내용과 확인된 결과를 정리했습니다.
+각 사례에는 고객 문제, 본인의 역할, 수행 내용과 확인된 결과를 정리했습니다. 같은 프로젝트를 여러 관점으로 설명한 글과 개인 R&D·제안 사례를 함께 담았습니다. Case 01과 Case 11은 동일한 PoC입니다.
 
 | Case | 핵심 경험 |
 |---|---|

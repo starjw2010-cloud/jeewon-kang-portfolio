@@ -2,6 +2,8 @@
 
 고객의 비즈니스 목표를 SaaS·AI 도입 범위로 구체화하고, 계약 이후 구축·정착·운영과 다음 사업 기회까지 연결합니다. 사업개발 경험과 고객 프로젝트 수행 경험을 함께 활용하는 역할입니다.
 
+**대표 사례부터 보기:** [계약·갱신](../case-studies/10-trial-and-renewal.md) → [프로젝트 리스크 대응](../case-studies/03-incident-and-escalation.md) → [고객 AI PoC와 성과 점검](../case-studies/11-ai-adoption-review.md). AI 기술을 직접 기획·검증한 경험은 [SemiFlow](../case-studies/06-ai-assisted-control-tower.md)에 정리했습니다.
+
 ## Experience Map
 
 | 업무 | 수행 경험 | 사례 |

@@ -24,6 +24,4 @@ PoC를 중단하지 않으면서 위험 기능의 사용을 제한하고 후속 
 ## Lesson
 기능이 동작하는지보다 먼저, 어떤 계정이 어떤 데이터에 읽기·쓰기 권한을 갖는지 확인해야 합니다.
 
-[Customer Success 트랙](../tracks/enterprise-customer-success.md) · [전체 포트폴리오](../README.md)
-
-같은 PoC의 운영·성과 점검은 [AI Adoption Review](11-ai-adoption-review.md)에 정리했습니다.
+[같은 PoC의 사용·성과 점검](11-ai-adoption-review.md) · [Customer Success 트랙](../tracks/enterprise-customer-success.md) · [전체 포트폴리오](../README.md)
