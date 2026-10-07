@@ -38,8 +38,19 @@
 | Build Your Own Chatbot - Level 1 | IBM | 2020-03-16 |
 | IBM Storage and Cloud Essentials | IBM | 2020-03-21 |
 
+## Speaking
+
+2025년 발표자료의 발표자 표기와 경력기록을 대조한 대외 발표 이력입니다.
+
+- **SW AI WEEK:** 오픈소스·Slack·AI를 산업과 대학의 업무 흐름에 연결하는 적용 방향 발표.
+- **Salesforce 3S:** Slack 기반 협업과 AI 업무 활용을 주제로 발표.
+
+고객별 교육과 웨비나 자료에서는 청중의 업무·운영 책임·질문에 맞춰 설명 수준을 조정했습니다. [역할별 교육 설계](work-samples/slack/role-based-enablement.md)
+
 ## Publication
 
 **『슬랙, 일의 언어를 바꾸다』 — 강지원 저 · 2026.07 출간**
+
+**『고객 소멸 시대 마케팅 어떻게 할 것인가』 — 고사카 유지 저 · 강지원 역 · 파지트 · 2022년 출간** ([도서 정보](https://www.ypbooks.co.kr/books/202308239140273878))
 
 [전체 포트폴리오](README.md)

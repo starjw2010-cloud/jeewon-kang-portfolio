@@ -20,6 +20,10 @@
 
 Salesforce 사업개발에서는 Account Executive·Solution Engineer와 후속 데모·제안을 연결했고, SaaS 이관 프로젝트에서는 고객 담당자·동료 컨설턴트·글로벌 Vendor Support와 진행 상황과 조치 범위를 맞췄습니다.
 
+[고객 생애주기 기반 CRM 제안](../work-samples/crm-customer-lifecycle.md)에서는 요건·예산·범위·시점 확인, Sales·SE·PM 협업, 고객 유형별 Success Plan과 기존 고객 확장 흐름을 다뤘습니다. 공동 제안·데모 경험으로, 실제 구축·갱신 성과와 구분합니다.
+
+[수행 관리와 운영 설계](../work-samples/slack/delivery-and-governance.md)에는 작업 일정과 선행 조건, 고객이 결정할 범위, 운영 담당자에게 넘길 항목을 구체적으로 정리했습니다.
+
 ## AI Adoption
 
 AI 도입에서는 사용할 데이터와 접근 권한, 답변의 근거, 사용자가 검토할 지점과 운영 제약을 함께 봅니다. [SemiFlow Sandbox](../case-studies/06-ai-assisted-control-tower.md)는 이러한 조건을 AI-assisted 방식으로 기획·검증한 사례입니다.

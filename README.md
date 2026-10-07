@@ -10,6 +10,8 @@
 
 **사업과 기술:** [Slack 사업개발·서비스 확장](work-samples/slack/business-development.md) · [SemiFlow 아키텍처](public-projects/semiflow-architecture.md)
 
+**추가 수행 근거:** [CRM 고객 생애주기 제안](work-samples/crm-customer-lifecycle.md) · [계약 범위·일정·운영 인계](work-samples/slack/delivery-and-governance.md)
+
 *업데이트: 2026-10-07 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
 
 ## Customer Lifecycle Experience
@@ -75,6 +77,7 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 | [10. Trial, Paid Conversion & Renewal](case-studies/10-trial-and-renewal.md) | 고객 수요에 맞춘 Trial·온보딩, 유료 전환과 갱신, 추가 교육 제안 회고 |
 | [11. AI Adoption Review](case-studies/11-ai-adoption-review.md) | Case 01 PoC의 사용자 범위·측정 기간을 나누어 사용과 후속 확산 조건 분석 |
 | [12. Feedback-led Proposal](case-studies/12-feedback-led-proposal.md) | 고객 피드백에 따라 과제 주체·범위·시작 순서와 기대 가치를 재구성 |
+| [13. Intensive Adoption Workshop](case-studies/13-intensive-adoption-workshop.md) | 대학의 5일 집중 교육·실습, 결과보고와 교육 수행 근거 대조 |
 
 사례와 함께 [Slack 사업·고객 사례](work-samples/slack/README.md)에서 사업개발과 서비스 구성, 갱신·확장 경험을 볼 수 있습니다. 교육·이관·기술 가이드는 각 사업의 수행 근거로 연결했습니다.
 
@@ -107,8 +110,9 @@ AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에�
 ## Publication & Learning
 
 - **『슬랙, 일의 언어를 바꾸다』** — 강지원 저 · 2026.07 출간.
+- **『고객 소멸 시대 마케팅 어떻게 할 것인가』** — 고사카 유지 저 · 강지원 역 · 파지트 · 2022년 출간.
 - Salesforce·Slack 관련 자격, AI 기초·Agent·Workflow·솔루션 범위 설정 학습을 이어가고 있습니다.
-- [자격·학습 이력](professional-development.md) · [공개 기술 프로젝트](public-projects/README.md)
+- [자격·학습·대외 발표·출간 이력](professional-development.md) · [공개 기술 프로젝트](public-projects/README.md)
 
 ## About
 
