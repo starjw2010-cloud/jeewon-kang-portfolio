@@ -110,8 +110,8 @@ AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에�
 ## Publication & Learning
 
 - **『슬랙, 일의 언어를 바꾸다』** — 강지원 저 · 2026.07 출간.
-- **『고객 소멸 시대 마케팅 어떻게 할 것인가』** — 고사카 유지 저 · 강지원 역 · 파지트 · 2022년 출간.
-- Salesforce·Slack 관련 자격과 OpenAI·ChatGPT·Codex 인증서 6종을 보유하고 있습니다. AI 기초·Agent·Workflow·솔루션 범위 설정 학습을 이어가고 있습니다.
+- **『고객 소멸 시대 마케팅 어떻게 할 것인가』** — 고사카 유지 저 · 강지원 역 · 파지트 · 2022.01.12 출간. 일본어 원서 번역 출판.
+- Salesforce Administrator·Slack Administrator·Sales Representative 등 자격 취득 이력과 OpenAI·ChatGPT·Codex 인증서 6종을 정리했습니다. Slack 배지 19개, Salesforce 실습 배지, Claude·Notion 및 비즈니스·데이터 학습 이력도 함께 제공합니다.
 - [자격·학습·대외 발표·출간 이력](professional-development.md) · [공개 기술 프로젝트](public-projects/README.md)
 
 ## About
