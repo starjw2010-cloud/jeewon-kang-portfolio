@@ -88,6 +88,7 @@
 |---|---|---|
 | [대학 부속 언어교육기관](../../case-studies/10-trial-and-renewal.md) | 협업 수요 확인, Trial·온보딩, 라이선스·갱신 지원 | 유료 전환과 갱신으로 관계 지속. 추가 교육 제안은 계약 미전환 |
 | [대학의 단계별 온보딩](../../case-studies/07-phased-onboarding.md) | 채널 구조와 관리자·사용자 교육, 수행·청구 근거 정리 | 2단계 온보딩 수행 완료 |
+| 대학 연구 사업단의 Slack 온보딩 구축 | 2025년 제안·견적 산정과 진행 보고 | 구축 계약 체결 |
 | [기업 협업환경 통합](../../case-studies/03-incident-and-escalation.md) | 이관 리드, 공급사 이슈 대응, 사용자·관리자 교육 | 통합과 교육 완료 |
 | [기존 대학 고객의 활용 확장](../../case-studies/08-account-expansion.md) | 교육, 업무 PoC와 AI 과제 제안 | 교육·PoC 수행, 후속 RFP 구체화 |
 | [유통기업 PoC](../../case-studies/05-pilot-retrospective.md) | 운영·사용 점검·결과 보고 | 고객의 다른 IT 방향 선택으로 계약 미전환. 종료 결과와 학습 정리 |

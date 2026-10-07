@@ -4,7 +4,7 @@
 
 고객의 업무 목표를 이해하고, 기업용 SaaS의 제안·계약부터 구축, 사용자 정착, 운영과 후속 사업 기회까지 연결해 온 강지원입니다. 리테일 IT 프로젝트, Salesforce 사업개발, Slack 컨설팅 경험을 바탕으로 고객과 기술팀 사이에서 요구사항·일정·리스크·의사결정을 조율합니다.
 
-최근에는 AI 도입 과제를 업무 흐름과 데이터·권한·보안 조건으로 구체화하고, 실제 사용 지표와 피드백을 통해 다음 단계를 설계하고 있습니다.
+최근에는 AI 도입 과제를 업무 흐름과 데이터·권한·보안 조건으로 구체화하고, 실제 사용 지표와 피드백을 통해 다음 단계를 설계하고 있습니다. 고객사 임원이 참여한 데모·온보딩과 COO(C-Level)가 참여한 AI PoC의 준비·운영·보고서 검토 경험을 보유하고 있습니다.
 
 **먼저 볼 내용:** [Enterprise Customer Success](tracks/enterprise-customer-success.md) · [대표 사례](#selected-case-studies) · [AI 기술 이해와 검증](case-studies/06-ai-assisted-control-tower.md)
 
@@ -12,7 +12,7 @@
 
 **추가 수행 근거:** [CRM 고객 생애주기 제안](work-samples/crm-customer-lifecycle.md) · [계약 범위·일정·운영 인계](work-samples/slack/delivery-and-governance.md)
 
-*업데이트: 2026-10-07 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
+*업데이트: 2026-10-08 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
 
 ## Customer Lifecycle Experience
 
@@ -33,11 +33,6 @@
 Salesforce 관련 제안·컨설팅에서 Slack 사업 리드와 AI·AX 컨설팅으로 업무를 확장했습니다. 고객 발굴·제안·계약·갱신 지원, PoC, Migration, 온보딩·교육을 수행하며 License 중심의 서비스를 Consulting·Education·AI 활용 검증으로 넓혔습니다.
 
 [Slack 사업개발 상세](work-samples/slack/business-development.md) — 사내 도입 제안·내부 PM에서 고객별 라이선스와 서비스 구성, 교육·PoC 이후 후속 제안까지의 경험을 정리했습니다.
-
-### FitTogether
-**Salesforce Sales Cloud Admin Consultant (Freelance) · 2022.01–2022.04**
-
-사용자·권한, Object·Field, Page Layout, Report·Dashboard 등 관리자 운영과 현업 요구사항 반영을 지원했습니다.
 
 ### Salesforce Korea
 **Sales Development Representative · 2020.06–2021.12**
@@ -109,9 +104,9 @@ AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에�
 
 ## Publication & Learning
 
-- **『슬랙, 일의 언어를 바꾸다』** — 강지원 저 · 2026.07 출간.
+- **『슬랙, 일의 언어를 바꾸다』** — 강지원 저 · 틔움출판 · 2026.08.03 출간.
 - **『고객 소멸 시대 마케팅 어떻게 할 것인가』** — 고사카 유지 저 · 강지원 역 · 파지트 · 2022.01.12 출간. 일본어 원서 번역 출판.
-- Salesforce Administrator·Slack Administrator·Sales Representative 등 자격 취득 이력과 OpenAI·ChatGPT·Codex 인증서 6종을 정리했습니다. Slack 배지 19개, Salesforce 실습 배지, Claude·Notion 및 비즈니스·데이터 학습 이력도 함께 제공합니다.
+- Salesforce Administrator·Slack Administrator·Sales Representative 등 자격 취득 이력과 OpenAI·ChatGPT·Codex 인증서 8종을 정리했습니다. Slack 배지 19개, Salesforce 실습 배지, Claude·Notion 및 비즈니스·데이터 학습 이력도 함께 제공합니다.
 - [자격·학습·대외 발표·출간 이력](professional-development.md) · [공개 기술 프로젝트](public-projects/README.md)
 
 ## About

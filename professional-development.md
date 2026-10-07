@@ -18,7 +18,7 @@ Salesforce AI Associate는 [공식 종료 안내](https://partners.salesforce.co
 
 ## AI Certificates — 2026
 
-2026년 10월 7일 제공한 인증서 화면 기준입니다. 6개 모두 Valid Through는 2027년 10월 7일이며, Consultative Solutions Practitioner의 발행월은 LinkedIn 기재 기준 2026년 10월입니다.
+2026년 10월 8일 제공한 인증서 화면 기준입니다. 8개 모두 Valid Through는 2027년 10월 7일이며, Consultative Solutions Practitioner의 발행월은 LinkedIn 기재 기준 2026년 10월입니다.
 
 | 인증서명 | 유효기한 |
 |---|---|
@@ -28,6 +28,8 @@ Salesforce AI Associate는 [공식 종료 안내](https://partners.salesforce.co
 | Codex Solutions Practitioner | 2027-10-07 |
 | ChatGPT Solutions Practitioner | 2027-10-07 |
 | OpenAI Technical Practitioner | 2027-10-07 |
+| OpenAI Cyber Solutions Practitioner | 2027-10-07 |
+| API Deployment Practitioner | 2027-10-07 |
 
 ## Slack Learning & Badges
 
@@ -181,7 +183,7 @@ Cloud Core의 중복 기재는 한 항목으로 정리했습니다. 기존 화�
 
 <img src="assets/publications/slack-book-cover.png" alt="슬랙, 일의 언어를 바꾸다 표지 — 강지원 지음" width="180">
 
-**강지원 저 · 2026.07 출간**
+**강지원 저 · 틔움출판 · 2026.08.03 출간**
 
 ### 『고객 소멸 시대 마케팅 어떻게 할 것인가』
 
