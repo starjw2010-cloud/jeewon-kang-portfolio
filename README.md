@@ -8,7 +8,7 @@
 
 **먼저 볼 내용:** [Enterprise Customer Success](tracks/enterprise-customer-success.md) · [대표 사례](#selected-case-studies) · [AI 기술 이해와 검증](case-studies/06-ai-assisted-control-tower.md)
 
-**구조와 산출물:** [SemiFlow 아키텍처](public-projects/semiflow-architecture.md) · [Slack 자료 모음](work-samples/slack/README.md)
+**사업과 기술:** [Slack 사업개발·서비스 확장](work-samples/slack/business-development.md) · [SemiFlow 아키텍처](public-projects/semiflow-architecture.md)
 
 *업데이트: 2026-10-07 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
 
@@ -29,6 +29,8 @@
 **SaaS / CRM Consulting & Business Development · 2022.06–Present**
 
 Salesforce 관련 제안·컨설팅에서 Slack 사업 리드와 AI·AX 컨설팅으로 업무를 확장했습니다. 고객 발굴·제안·계약·갱신 지원, PoC, Migration, 온보딩·교육을 수행하며 License 중심의 서비스를 Consulting·Education·AI 활용 검증으로 넓혔습니다.
+
+[Slack 사업개발 상세](work-samples/slack/business-development.md) — 사내 도입 제안·내부 PM에서 고객별 라이선스와 서비스 구성, 교육·PoC 이후 후속 제안까지의 경험을 정리했습니다.
 
 ### FitTogether
 **Salesforce Sales Cloud Admin Consultant (Freelance) · 2022.01–2022.04**
@@ -74,7 +76,7 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 | [11. AI Adoption Review](case-studies/11-ai-adoption-review.md) | Case 01 PoC의 사용자 범위·측정 기간을 나누어 사용과 후속 확산 조건 분석 |
 | [12. Feedback-led Proposal](case-studies/12-feedback-led-proposal.md) | 고객 피드백에 따라 과제 주체·범위·시작 순서와 기대 가치를 재구성 |
 
-사례와 함께 [Slack 자료 모음](work-samples/slack/README.md)에서 역할별 교육, 이관 사전조사, 기술 확인·사용자 안내, 집필·도식 설계의 상세 샘플을 볼 수 있습니다. [전체 산출물 요약](work-samples/slack-delivery-and-enablement.md)에는 서비스 구성과 제안 자료까지 정리했습니다.
+사례와 함께 [Slack 사업·고객 사례](work-samples/slack/README.md)에서 사업개발과 서비스 구성, 갱신·확장 경험을 볼 수 있습니다. 교육·이관·기술 가이드는 각 사업의 수행 근거로 연결했습니다.
 
 ## How I Work
 
@@ -102,10 +104,9 @@ AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에�
 
 [SemiFlow 상세 사례](public-projects/semiflow-deep-dive.md)에는 36,000건의 합성 주문을 활용한 업무 설계, 질문별 근거 검색과 사실 검증, 구현·검수·운영 전환의 판단 기준을 정리했습니다.
 
-## Writing & Learning
+## Publication & Learning
 
-- **『슬랙, 일의 언어를 바꾸다』** — 2026.07 출간. Slack 도입·운영 경험을 고객이 이해할 수 있는 콘텐츠로 정리했습니다.
-- [집필과 도식 설계](work-samples/slack/writing-and-explanation.md) — 독자의 질문에 맞춘 설명 순서, 실행 자료와 제작 요구사항을 정리했습니다.
+- **『슬랙, 일의 언어를 바꾸다』** — 강지원 저 · 2026.07 출간.
 - Salesforce·Slack 관련 자격, AI 기초·Agent·Workflow·솔루션 범위 설정 학습을 이어가고 있습니다.
 - [자격·학습 이력](professional-development.md) · [공개 기술 프로젝트](public-projects/README.md)
 

@@ -30,4 +30,4 @@ AI 도입에서는 사용할 데이터와 접근 권한, 답변의 근거, 사�
 
 [고객 점검 프레임](../frameworks/customer-success-review.md) · [전체 포트폴리오](../README.md)
 
-[Slack 자료 모음](../work-samples/slack/README.md)에서 역할별 교육, 이관 사전조사, 기술 검토·사용자 안내와 집필 자료의 상세 샘플을 볼 수 있습니다. [전체 산출물 요약](../work-samples/slack-delivery-and-enablement.md)에는 서비스 설계와 제안 자료를 함께 정리했습니다.
+[Slack 사업개발·서비스 확장](../work-samples/slack/business-development.md)에서 라이선스 제안과 도입 서비스를 연결하고, 교육·PoC를 후속 기회로 발전시킨 경험을 볼 수 있습니다. [Slack 사업·고객 사례](../work-samples/slack/README.md)에는 수행을 뒷받침하는 자료를 함께 정리했습니다.

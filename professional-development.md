@@ -38,10 +38,8 @@
 | Build Your Own Chatbot - Level 1 | IBM | 2020-03-16 |
 | IBM Storage and Cloud Essentials | IBM | 2020-03-21 |
 
-## Writing
+## Publication
 
-**『슬랙, 일의 언어를 바꾸다』 — 2026.07 출간**
-
-Slack 도입·운영 경험을 고객이 이해할 수 있는 콘텐츠로 정리했습니다. 기술 기능과 업무 변화 사이를 설명하는 대외 커뮤니케이션 경험입니다.
+**『슬랙, 일의 언어를 바꾸다』 — 강지원 저 · 2026.07 출간**
 
 [전체 포트폴리오](README.md)
