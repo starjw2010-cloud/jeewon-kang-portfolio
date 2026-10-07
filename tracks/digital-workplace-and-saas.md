@@ -16,7 +16,7 @@
 ## Case Highlights
 
 ### Large-scale Migration
-7개 Workspace와 약 132만 건의 메시지를 다룬 Migration에서 실제 이관 작업과 데이터 비교를 수행했습니다.
+7개 Workspace·198명 통합에서 이관 계획·검수를 담당하고 동료와 실작업을 공동 수행했습니다. 2026년 9월 경력자료의 전체 집계는 약 760만 건 메시지·이관율 99.38%이며, 특정 Workspace의 중간 검증 수치와 구분합니다. [사례 보기](../case-studies/02-large-scale-migration.md)
 
 ### Migration Incident
 5개 Workspace 통합 중 Rollback과 DM 데이터 문제를 글로벌 Tier 2 Support와 대응하고 Workaround와 교육을 진행했습니다.
@@ -30,3 +30,5 @@ Demo·교육 환경에서 Workspace, SSO, DLP, App policy 운영 경험이 있�
 ## Operating Principle
 
 장애를 빨리 닫는 것만큼 같은 문제가 반복되지 않도록 원인과 기준을 남기는 것을 중요하게 생각합니다.
+
+고객 관계의 유지·확장 경험은 [Enterprise Customer Success](enterprise-customer-success.md)에 정리했습니다.

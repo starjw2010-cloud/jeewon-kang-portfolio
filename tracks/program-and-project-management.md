@@ -13,16 +13,16 @@
 ## Representative Experience
 
 ### 3-Day Enablement Program
-사전 설문을 통해 참가자의 경험과 관심 주제를 확인하고 프로그램 난이도와 실습을 조정했습니다. 교육 후 만족도는 86%였습니다.
+사전 설문으로 참가자의 경험과 관심 주제를 확인하고 수준별 실습과 3일 프로그램을 구성했습니다. 교육 후 피드백을 수집해 결과를 점검했습니다. [사례 보기](../case-studies/04-needs-to-program.md)
 
 ### Two-Phase Adoption
-초기 온보딩 이후 실제 사용 과정에서 나온 요구를 반영해 두 번째 프로그램으로 확장했습니다.
+대학 사업단의 채널 구조와 관리자·사용자 교육을 설계하고 두 단계의 온보딩을 수행했습니다. 수행·청구 근거를 정리하는 고객 커뮤니케이션까지 담당했습니다. [사례 보기](../case-studies/07-phased-onboarding.md)
 
 ### Education → PoC → RFP
-교육을 통해 확인한 현업 요구를 별도 PoC와 후속 RFP 초안으로 발전시켰습니다.
+기존 대학 고객의 교육, 연구장비관리 PoC와 AI 지원 플랫폼 RFP를 수행 단계별로 구분해 진행했습니다. [사례 보기](../case-studies/08-account-expansion.md)
 
 ### Enterprise Pilot Retrospective
-4개월 Pilot의 사용 데이터를 확인하고 미도입이라는 결과까지 객관적으로 정리했습니다.
+약 4개월 PoC의 사용 데이터를 분석하고 전사 IT 전략에 따른 계약 미전환 결과를 회고했습니다. [사례 보기](../case-studies/05-pilot-retrospective.md)
 
 ## Program Principle
 

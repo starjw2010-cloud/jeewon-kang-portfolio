@@ -1,26 +1,39 @@
 # Case 02. Large-scale SaaS Migration
 
-## Scope
-- 7 Workspaces
-- 198 Users
-- 576 Channels in validation target
-- 1,325,413 Messages
-- 99.15% migration confirmed in sampled workspace
-- 11,232 non-migrated records analyzed separately
+**고객:** 보안 소프트웨어 기업 · **기간:** 2026 · **범위:** 7개 Workspace·198명 통합
 
-## Work
-- Migration strategy
-- Export / Import
-- Account merge
-- Channel cleanup
-- Weekend migration work
-- Before/after validation
-- Exception categorization
+## Situation
 
-## Approach
-Migration 완료 여부를 단순히 '작업 종료'로 판단하지 않고, 원본과 결과 데이터를 비교했습니다.
+분산된 협업환경을 하나로 통합하면서 대용량 메시지, 사용자 계정과 외부 협업 관계를 함께 옮겨야 했습니다. Export 승인 지연과 데이터 처리량으로 일정이 변경되어 이관 순서와 검증 절차를 재조정했습니다.
 
-정상 이관된 데이터와 이관되지 않은 데이터를 분리하고, 잔여 건은 원인을 문서화했습니다.
+## My Role
+
+이관 방향과 실행 계획, 일정·이슈 관리와 결과 검수를 담당했습니다. 실제 이관 작업은 동료와 공동 수행했습니다.
+
+## Action
+
+1. Workspace별 데이터와 계정, 채널·외부 협업 관계를 확인했습니다.
+2. 승인 일정과 대용량 처리 조건을 반영해 작업을 나누었습니다.
+3. Export / Import, 계정 병합과 채널 정리를 공동 수행했습니다.
+4. 원본과 이관 결과를 대조해 누락 항목을 찾고 재이관했습니다.
+5. 남은 예외의 원인과 이관 결과를 별도로 정리했습니다.
+
+## Reported Outcome
+
+2026년 9월 경력자료에 정리한 전체 집계입니다.
+
+| 항목 | 범위·결과 |
+|---|---|
+| 통합 대상 | 7 Workspaces → 1 / 198 users |
+| 대상 메시지 | 7,596,736건 |
+| 메시지 이관율 | 99.38% |
+| 외부 협업 | Slack Connect 112개 채널 유지·이관 |
+| DM | 729건 유지·이관 |
+
+이전 자료의 약 132만 건·99.15%는 특정 Workspace의 중간 검증 수치입니다. 위 전체 집계와 분모·시점이 다르므로 합산하거나 직접 비교하지 않습니다. 메시지 이관율을 모든 파일·연동·사용자 경험의 완전한 보존율로 해석하지 않습니다.
 
 ## Lesson
-Migration에서는 성공률만큼 **빠진 데이터가 무엇인지 설명할 수 있는 상태**가 중요합니다.
+
+Migration 완료를 설명하려면 이관된 범위와 남은 예외가 함께 드러나야 합니다. 일정 변경 상황에서도 고객이 결과를 판단할 수 있도록 대조 근거와 후속 조치를 정리하는 것이 중요했습니다.
+
+[Customer Success 트랙](../tracks/enterprise-customer-success.md) · [전체 포트폴리오](../README.md)

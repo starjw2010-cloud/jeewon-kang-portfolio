@@ -19,14 +19,14 @@
 ### Enterprise AX PoC
 현업의 영업·협업 흐름을 바탕으로 SaaS·CRM·AI 활용 시나리오를 구성하고 SSO, Permission, Security Q&A를 함께 검토했습니다.
 
-### GS AX PoC
-기존 업무 앱의 UX 한계를 분석하고 자동 브리핑, AI Agent 업무 시나리오와 C-level onboarding을 지원했습니다.
+### Enterprise AX Workflow PoC
+기존 업무 앱의 UX 한계를 분석하고 자동 브리핑, AI Agent 업무 시나리오와 경영진 대상 활용·온보딩 자료를 구성했습니다.
 
 ### Financial Agentic OS Demo
 금융 업무를 대상으로 Slack AI, Workflow, Salesforce Opportunity를 연결한 Demo와 Use Case를 설계했습니다. 실제 고객 Production 구축 사례로는 표현하지 않습니다.
 
 ### SemiFlow
-AI-assisted Sandbox에서 deterministic data/evidence layer를 먼저 만들고 AI를 이후 단계에 연결하는 구조를 검토했습니다.
+합성 제조 데이터를 사용하는 AI-assisted Sandbox에서 운영 사실·위험 계산과 AI 해석을 분리하고, 근거 검색·답변 검증·임원 보고서 흐름을 기획·검증했습니다. [최신 사례](../case-studies/06-ai-assisted-control-tower.md)
 
 ## Strength
 
