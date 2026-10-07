@@ -10,6 +10,19 @@
 - Salesforce Slack Certified Administrator
 - Salesforce Certified AI Associate
 
+## AI Certificates — 2026
+
+2026년 10월 7일 확인한 인증서 목록입니다. 유효기한은 화면의 Valid Through 표시를 기준으로 기재했습니다.
+
+| 인증서명 | 유효기한 |
+|---|---|
+| OpenAI Consultative Solutions Practitioner | 2027-10-07 |
+| OpenAI Foundational Knowledge | 2027-10-07 |
+| ChatGPT Deployment Practitioner | 2027-10-07 |
+| Codex Solutions Practitioner | 2027-10-07 |
+| ChatGPT Solutions Practitioner | 2027-10-07 |
+| OpenAI Technical Practitioner | 2027-10-07 |
+
 ## AI Learning — 2026
 
 2026년 10월 제공한 인증서 목록의 명칭과 Validation 기간입니다.
