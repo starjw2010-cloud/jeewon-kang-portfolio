@@ -8,7 +8,7 @@
 
 **먼저 볼 내용:** [Enterprise Customer Success](tracks/enterprise-customer-success.md) · [대표 사례](#selected-case-studies) · [AI 기술 이해와 검증](case-studies/06-ai-assisted-control-tower.md)
 
-**사업과 기술:** [Slack 사업개발·서비스 확장](work-samples/slack/business-development.md) · [SemiFlow 아키텍처](public-projects/semiflow-architecture.md)
+**사업과 기술:** [Slack 사업개발·서비스 확장](work-samples/slack/business-development.md) · [Slack 조직·운영 아키텍처](work-samples/slack/enterprise-architecture.md) · [SemiFlow 아키텍처](public-projects/semiflow-architecture.md)
 
 **추가 수행 근거:** [CRM 고객 생애주기 제안](work-samples/crm-customer-lifecycle.md) · [계약 범위·일정·운영 인계](work-samples/slack/delivery-and-governance.md)
 
