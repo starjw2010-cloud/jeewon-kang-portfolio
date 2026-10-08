@@ -18,7 +18,7 @@ Salesforce AI Associate는 [공식 종료 안내](https://partners.salesforce.co
 
 ## AI Certificates — 2026
 
-2026년 10월 8일 제공한 인증서 화면 기준입니다. 8개 모두 Valid Through는 2027년 10월 7일이며, Consultative Solutions Practitioner의 발행월은 LinkedIn 기재 기준 2026년 10월입니다.
+2026년 10월 8일 제공한 최신 인증서 화면에 표시된 10종 모두 취득했습니다. 기존 8종은 2027년 10월 7일까지, 새로 추가된 OpenAI Cyber Deployment Practitioner와 Codex Deployment Practitioner는 2027년 10월 8일까지 유효합니다. Consultative Solutions Practitioner의 발행월은 LinkedIn 기재 기준 2026년 10월입니다.
 
 | 인증서명 | 유효기한 |
 |---|---|
@@ -30,6 +30,20 @@ Salesforce AI Associate는 [공식 종료 안내](https://partners.salesforce.co
 | OpenAI Technical Practitioner | 2027-10-07 |
 | OpenAI Cyber Solutions Practitioner | 2027-10-07 |
 | API Deployment Practitioner | 2027-10-07 |
+| OpenAI Cyber Deployment Practitioner | 2027-10-08 |
+| Codex Deployment Practitioner | 2027-10-08 |
+
+[인증서 10종 확인 화면](assets/credentials/openai-ten-certificates-2026-10-08.png)
+
+## AI Expert Skills — All Levels Achieved
+
+API Expert, ChatGPT Expert, Codex Expert의 모든 레벨을 달성했습니다. 아래는 학습 플랫폼의 스킬 배지이며, 위 인증서 10종과 구분해 기재합니다.
+
+| 스킬 배지 | 화면 표시 상태 | 확인 화면 |
+|---|---|---|
+| API Expert | All levels achieved | [배지 보기](assets/credentials/api-expert-2026-10-08.png) |
+| ChatGPT Expert | All levels achieved | [배지 보기](assets/credentials/chatgpt-expert-2026-10-08.png) |
+| Codex Expert | All levels achieved | [배지 보기](assets/credentials/codex-expert-2026-10-08.png) |
 
 ## Slack Learning & Badges
 
