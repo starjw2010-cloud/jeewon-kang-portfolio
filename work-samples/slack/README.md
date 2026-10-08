@@ -22,6 +22,7 @@ Slack 사업에서 고객의 요구를 라이선스 제안, 온보딩·교육·�
 | [도입 전 기술 확인과 사용자 안내](technical-readiness.md) | PoC 전환 조건, 보안 검토 질문, 초기 접속·연동 안내 | 고객·IT·보안·공급사 조율 |
 | [수행 관리와 운영 설계](delivery-and-governance.md) | 작업 일정과 선행 조건, 계약 범위·고객 확인, 권한·운영 인계 | 프로젝트 리드·위험 설명·책임 분담 |
 | [조직·운영 아키텍처](enterprise-architecture.md) | PoC 공간, 전사 정책, 사업부 운영과 외부 협업의 관계 | 고객 조직을 운영·권한 구조와 확장안으로 설명 |
+| [GS AI 앱·프로토타입](../../case-studies/14-gs-ai-intelligence-prototypes.md) | 경쟁사 뉴스·고객 VOC·날씨 분석과 Slack 보고 흐름 | 시장·고객 분석, 서비스 기획, AI-assisted 구현 |
 
 [전체 산출물 요약](../slack-delivery-and-enablement.md)에서는 서비스 패키지, 교육 제안, 웨비나 준비 자료 등 더 넓은 작성 범위를 확인할 수 있습니다.
 

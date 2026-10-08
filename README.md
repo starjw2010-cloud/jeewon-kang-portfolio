@@ -10,6 +10,8 @@
 
 **사업과 기술:** [Slack 사업개발·서비스 확장](work-samples/slack/business-development.md) · [Slack 조직·운영 아키텍처](work-samples/slack/enterprise-architecture.md) · [SemiFlow 아키텍처](public-projects/semiflow-architecture.md)
 
+**시장·고객 분석과 AI 기획:** [GS AI 앱·프로토타입](case-studies/14-gs-ai-intelligence-prototypes.md) — 경쟁사 뉴스, 고객 VOC, 날씨 정보를 수집·분석하고 Slack 보고서로 전달하는 흐름을 기획·제작했습니다. 원본 구조도와 데모·확장 설계의 범위를 함께 제공합니다.
+
 **추가 수행 근거:** [CRM 고객 생애주기 제안](work-samples/crm-customer-lifecycle.md) · [계약 범위·일정·운영 인계](work-samples/slack/delivery-and-governance.md)
 
 *업데이트: 2026-10-08 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
@@ -73,6 +75,7 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 | [11. AI Adoption Review](case-studies/11-ai-adoption-review.md) | Case 01 PoC의 사용자 범위·측정 기간을 나누어 사용과 후속 확산 조건 분석 |
 | [12. Feedback-led Proposal](case-studies/12-feedback-led-proposal.md) | 고객 피드백에 따라 과제 주체·범위·시작 순서와 기대 가치를 재구성 |
 | [13. Intensive Adoption Workshop](case-studies/13-intensive-adoption-workshop.md) | 대학의 5일 집중 교육·실습, 결과보고와 교육 수행 근거 대조 |
+| [14. GS AI Intelligence Apps](case-studies/14-gs-ai-intelligence-prototypes.md) | 경쟁사 뉴스·고객 VOC·날씨 정보를 분석·보고하는 앱 기획과 AI-assisted 프로토타입 제작 |
 
 사례와 함께 [Slack 사업·고객 사례](work-samples/slack/README.md)에서 사업개발과 서비스 구성, 갱신·확장 경험을 볼 수 있습니다. 교육·이관·기술 가이드는 각 사업의 수행 근거로 연결했습니다.
 
@@ -101,6 +104,8 @@ ChatGPT·Claude는 조사와 요구사항 정리에, Claude Code·Codex는 Proto
 AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에서 검증한 결과를 구분합니다. [AI-assisted Delivery](tracks/ai-assisted-delivery.md)와 [SemiFlow 사례](case-studies/06-ai-assisted-control-tower.md)에서 구체적인 방식과 범위를 설명합니다.
 
 [SemiFlow 상세 사례](public-projects/semiflow-deep-dive.md)에는 36,000건의 합성 주문을 활용한 업무 설계, 질문별 근거 검색과 사실 검증, 구현·검수·운영 전환의 판단 기준을 정리했습니다.
+
+[GS AI 앱 사례](case-studies/14-gs-ai-intelligence-prototypes.md)에서는 시장·경쟁사와 고객 정보를 어떤 업무에 사용할지 정하고 외부 API, AI 분석, Slack 보고서로 이어지는 프로토타입을 만들었습니다. [원본 아키텍처 11장](assets/gs-ai-prototypes/README.md)에서 개별 앱과 후속 확장 설계를 확인할 수 있습니다.
 
 ## Publication & Learning
 

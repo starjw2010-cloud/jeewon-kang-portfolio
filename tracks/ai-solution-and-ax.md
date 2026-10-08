@@ -22,6 +22,9 @@
 ### Enterprise AX Workflow PoC
 기존 업무 앱의 UX 한계를 분석하고 자동 브리핑, AI Agent 업무 시나리오와 경영진 대상 활용·온보딩 자료를 구성했습니다.
 
+### GS AI Intelligence Apps
+경쟁사 뉴스 모니터링, 공개 고객 반응의 감성·이슈 분석, 날씨 정보의 유통 운영 적용을 위한 앱과 프로토타입을 기획·제작했습니다. 외부 데이터를 수집해 AI로 분석하고 Slack 보고서와 알림으로 전달하는 흐름입니다. 내부 시스템 연동과 기업별 AI 모델 선택은 후속 확장 설계로 구분했습니다. [앱별 사례와 원본 구조도](../case-studies/14-gs-ai-intelligence-prototypes.md)
+
 ### Financial Agentic OS Demo
 금융 업무를 대상으로 Slack AI, Workflow, Salesforce Opportunity를 연결한 Demo와 Use Case를 설계했습니다. 실제 고객 Production 구축 사례로는 표현하지 않습니다.
 

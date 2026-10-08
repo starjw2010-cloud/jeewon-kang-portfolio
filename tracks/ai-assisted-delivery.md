@@ -46,6 +46,12 @@ What was merged
 What is still unverified
 ```
 
+## Representative Case — GS AI Apps
+
+시장·경쟁사와 고객 정보를 다루는 업무를 정하고 외부 API 수집, AI 분석, Slack 문서·알림으로 이어지는 프로토타입을 제작했습니다. 경쟁사 뉴스, 고객 VOC, 날씨 운영 시사점과 에너지 정보의 사용 흐름을 각각 구성했습니다.
+
+자료 조사와 요구사항 정리에는 ChatGPT·Claude를 활용하고 앱 제작에는 AI 코딩 도구를 사용했습니다. 서비스 내부의 분석 모델과 기획·개발에 쓴 도구를 구분해 [GS 앱 상세 사례](../case-studies/14-gs-ai-intelligence-prototypes.md)에 정리했습니다. 완성된 프로토타입과 후속 기업 시스템 연동 설계의 범위도 함께 표시했습니다.
+
 ## Representative Case — SemiFlow
 
 합성 제조 데이터 기반 운영 관제 프로젝트에서 사용자별 업무 질문, 데이터·권한 범위와 수용 기준을 정리했습니다. 기능 구현을 독립 검토·자동검증·변경 통합·실행 환경 확인으로 연결하는 관리 방식을 적용합니다.
