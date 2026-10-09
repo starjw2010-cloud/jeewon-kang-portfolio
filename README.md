@@ -1,20 +1,29 @@
 # Jeewon Kang — Career Portfolio
 
-**Enterprise Customer Success · AI / AX · SaaS Delivery & Account Growth**
+**Business Development · AI / AX Planning · Service Product & Delivery**
 
-고객의 업무 목표를 이해하고, 기업용 SaaS의 제안·계약부터 구축, 사용자 정착, 운영과 후속 사업 기회까지 연결해 온 강지원입니다. 리테일 IT 프로젝트, Salesforce 사업개발, Slack 컨설팅 경험을 바탕으로 고객과 기술팀 사이에서 요구사항·일정·리스크·의사결정을 조율합니다.
+고객의 업무 문제를 사업 기회와 서비스 상품으로 구체화하고, 글로벌 SaaS 벤더와의 협업, AI-assisted 프로토타입, 프리세일즈와 도입·정착을 연결해 온 강지원입니다.
 
-최근에는 AI 도입 과제를 업무 흐름과 데이터·권한·보안 조건으로 구체화하고, 실제 사용 지표와 피드백을 통해 다음 단계를 설계하고 있습니다. 고객사 임원이 참여한 데모·온보딩과 COO(C-Level)가 참여한 AI PoC의 준비·운영·보고서 검토 경험을 보유하고 있습니다.
+i2MAX에서는 2022년 6월 입사 이후 서비스 기획, 파트너·벤더 협업, 고객 제안, PoC, 도입·교육·운영을 함께 담당했습니다. 사업과 고객 현장의 요구를 직접 연결해 온 경험을 직무별로 살펴볼 수 있도록 구성했습니다. 각 프로젝트의 본인·동료·벤더 역할과 실제 성과는 구분합니다.
 
-**먼저 볼 내용:** [Enterprise Customer Success](tracks/enterprise-customer-success.md) · [대표 사례](#selected-case-studies) · [AI 기술 이해와 검증](case-studies/06-ai-assisted-control-tower.md)
+**직무별 보기:** [사업개발](tracks/business-development.md) · [서비스 상품기획](tracks/service-product-planning.md) · [파트너십](tracks/partnerships-and-gtm.md) · [AI/AX](tracks/ai-solution-and-ax.md) · [Customer Success](tracks/enterprise-customer-success.md)
 
-**사업과 기술:** [Slack 사업개발·서비스 확장](work-samples/slack/business-development.md) · [Slack 조직·운영 아키텍처](work-samples/slack/enterprise-architecture.md) · [SemiFlow 아키텍처](public-projects/semiflow-architecture.md)
+**경력의 전체 구조:** [통합 경력 원장](career/MASTER_PROFILE.md) · [역량·사례 매핑](career/CAPABILITY_MATRIX.md) · [지원서 구성 가이드](career/APPLICATION_PLAYBOOK.md)
 
-**시장·고객 분석과 AI 기획:** [GS AI 앱·프로토타입](case-studies/14-gs-ai-intelligence-prototypes.md) — 경쟁사 뉴스, 고객 VOC, 날씨 정보를 수집·분석하고 Slack 보고서로 전달하는 흐름을 기획·제작했습니다. 원본 구조도와 데모·확장 설계의 범위를 함께 제공합니다.
+## End-to-End Business Experience
 
-**추가 수행 근거:** [CRM 고객 생애주기 제안](work-samples/crm-customer-lifecycle.md) · [계약 범위·일정·운영 인계](work-samples/slack/delivery-and-governance.md)
+| 사업 흐름 | 연결한 업무 | 대표 근거 |
+|---|---|---|
+| 고객 문제·기회 발견 | 업무 요구·시장 접점·도입 제약 분석 | [제안 재설계](case-studies/12-feedback-led-proposal.md) |
+| 사업·상품 설계 | 서비스 사업모델·패키지·제공 범위 구체화 | [서비스 패키지](case-studies/15-service-business-model.md) |
+| 파트너 협업·시장 접근 | 사업 방향·타깃 고객·Offering·역할 협의 | [사업 킥오프](case-studies/16-partner-business-planning.md) |
+| 프로토타입·프리세일즈 | AI 활용 시나리오·데모·PoC·제안 | [GS AI 앱](case-studies/14-gs-ai-intelligence-prototypes.md) · [SemiFlow](case-studies/06-ai-assisted-control-tower.md) |
+| 고객 제안·거래 추진 | 공동영업·견적·조건·수행 일정 조율 | [공동영업](case-studies/17-partner-commercial-execution.md) |
+| 도입·정착·확장 | 이관·보안·교육·운영·후속 과제 | [이관](case-studies/02-large-scale-migration.md) · [고객 확장](case-studies/08-account-expansion.md) |
 
-*업데이트: 2026-10-08 · 고객 사례는 산업과 수행 범위 중심으로 정리했습니다. [근거·공개 기준](EVIDENCE.md)*
+각 단계는 재직 기간에 걸친 경험의 연결이며 하나의 프로젝트에서 모두 단독 수행했다는 뜻은 아닙니다.
+
+*업데이트: 2026-10-09 · [근거·공개 기준](EVIDENCE.md) · [경력 지식베이스와 업데이트 방법](career/README.md)*
 
 ## Customer Lifecycle Experience
 
@@ -50,6 +59,10 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 
 | Track | Focus |
 |---|---|
+| [B2B IT·AI 사업개발](tracks/business-development.md) | 고객 문제·Offering·제안·공동영업·사업 추진 |
+| [서비스 상품기획](tracks/service-product-planning.md) | 서비스 범위·등급·옵션·사업화 준비 |
+| [파트너 사업개발](tracks/partnerships-and-gtm.md) | 공동 사업계획·타깃·역할·공동 마케팅 |
+| [프리세일즈·솔루션 컨설팅](tracks/presales-and-solution-consulting.md) | 요구 분석·제안·산업별 데모·PoC |
 | [Enterprise Customer Success](tracks/enterprise-customer-success.md) | 온보딩·구축·운영, 성과 점검, 리스크 대응, 갱신·확장 |
 | [AI Solution & AX](tracks/ai-solution-and-ax.md) | 고객 Pain Point, AI Use Case, PoC, RAG/MCP, 사업화 |
 | [Program & Project Management](tracks/program-and-project-management.md) | 요구사항, 일정, Pilot, 교육 프로그램, 리스크·성과 관리 |
@@ -76,22 +89,15 @@ Enterprise 고객의 CRM·Cloud SaaS 도입 니즈를 발굴하고 Discovery, Qu
 | [12. Feedback-led Proposal](case-studies/12-feedback-led-proposal.md) | 고객 피드백에 따라 과제 주체·범위·시작 순서와 기대 가치를 재구성 |
 | [13. Intensive Adoption Workshop](case-studies/13-intensive-adoption-workshop.md) | 대학의 5일 집중 교육·실습, 결과보고와 교육 수행 근거 대조 |
 | [14. GS AI Intelligence Apps](case-studies/14-gs-ai-intelligence-prototypes.md) | 경쟁사 뉴스·고객 VOC·날씨 정보를 분석·보고하는 앱 기획과 AI-assisted 프로토타입 제작 |
+| [15. 서비스 사업모델·패키지](case-studies/15-service-business-model.md) | 벤더와 PS·SI 사업모델 협의, 서비스 패키지 구성 |
+| [16. 파트너 공동 사업계획](case-studies/16-partner-business-planning.md) | 사업 방향·Offering·타깃 고객·R&R 관련 자료 준비·발표 |
+| [17. 공동영업·상업 조건 협의](case-studies/17-partner-commercial-execution.md) | 고객별 제안·일정 조율·공동 마케팅 |
 
 사례와 함께 [Slack 사업·고객 사례](work-samples/slack/README.md)에서 사업개발과 서비스 구성, 갱신·확장 경험을 볼 수 있습니다. 교육·이관·기술 가이드는 각 사업의 수행 근거로 연결했습니다.
 
 ## How I Work
 
-```text
-고객 목표·현재 업무 이해
-        ↓
-범위·성공 기준·이해관계자 확인
-        ↓
-PoC / 구축 / 온보딩 실행
-        ↓
-사용 데이터·고객 피드백·리스크 점검
-        ↓
-유지 / 개선 / 확장 / 종료 의사결정
-```
+고객 목표와 현재 업무를 이해한 뒤 범위·성공 기준·이해관계자를 확인합니다. PoC·구축·온보딩을 실행하고 사용 데이터·고객 피드백·리스크를 점검해 유지·개선·확장·종료 판단으로 연결합니다.
 
 새로운 기능을 제안할 때에도 실제 사용자가 누구인지, 도입 이후 누가 운영하는지, 어떤 근거로 다음 투자를 결정할지 함께 확인합니다.
 
@@ -118,6 +124,6 @@ AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에�
 
 **Jeewon Kang / 강지원**
 
-Enterprise Customer Success · AI / AX · SaaS Delivery & Account Growth
+Business Development · AI / AX Planning · Service Product & Delivery
 
 [LinkedIn](https://www.linkedin.com/in/jeewon-kang-617bb7184/) · [GitHub](https://github.com/starjw2010-cloud)
