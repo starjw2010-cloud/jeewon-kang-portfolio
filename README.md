@@ -4,7 +4,11 @@
 
 고객의 업무 문제를 사업 기회와 서비스 상품으로 구체화하고, 글로벌 SaaS 벤더와의 협업, AI-assisted 프로토타입, 프리세일즈와 도입·정착을 연결해 온 강지원입니다.
 
+2026년 10월부터 OAI Business Consultant로 컨설팅 실무를 담당하고 있으며, 2026년 7~8월에는 OpenAI 사업 전략안 작성 실무에 참여했습니다. 업무 진단부터 AI 적용 검토, 도입 교육과 사용 점검을 연결합니다.
+
 i2MAX에서는 2022년 6월 입사 이후 서비스 기획, 파트너·벤더 협업, 고객 제안, PoC, 도입·교육·운영을 함께 담당했습니다. 사업과 고객 현장의 요구를 직접 연결해 온 경험을 직무별로 살펴볼 수 있도록 구성했습니다. 각 프로젝트의 본인·동료·벤더 역할과 실제 성과는 구분합니다.
+
+**최근 AI·AX 경험:** [기업용 AI 에이전트·사내 AX·AI Factory](case-studies/18-ai-ax-practice.md) — 업무 기획, 시제품 검토와 적용 범위를 공개 가능한 수준으로 정리했습니다.
 
 **직무별 보기:** [사업개발](tracks/business-development.md) · [서비스 상품기획](tracks/service-product-planning.md) · [파트너십](tracks/partnerships-and-gtm.md) · [AI/AX](tracks/ai-solution-and-ax.md) · [Customer Success](tracks/enterprise-customer-success.md)
 
@@ -23,7 +27,7 @@ i2MAX에서는 2022년 6월 입사 이후 서비스 기획, 파트너·벤더 �
 
 각 단계는 재직 기간에 걸친 경험의 연결이며 하나의 프로젝트에서 모두 단독 수행했다는 뜻은 아닙니다.
 
-*업데이트: 2026-10-09 · [근거·공개 기준](EVIDENCE.md) · [경력 지식베이스와 업데이트 방법](career/README.md)*
+*업데이트: 2026-11-23 · [근거·공개 기준](EVIDENCE.md) · [경력 지식베이스와 업데이트 방법](career/README.md)*
 
 ## Customer Lifecycle Experience
 
@@ -111,13 +115,13 @@ AI가 생성한 코드, 테스트로 확인한 동작, 실제 고객 환경에�
 
 [SemiFlow 상세 사례](public-projects/semiflow-deep-dive.md)에는 36,000건의 합성 주문을 활용한 업무 설계, 질문별 근거 검색과 사실 검증, 구현·검수·운영 전환의 판단 기준을 정리했습니다.
 
-[GS AI 앱 사례](case-studies/14-gs-ai-intelligence-prototypes.md)에서는 시장·경쟁사와 고객 정보를 어떤 업무에 사용할지 정하고 외부 API, AI 분석, Slack 보고서로 이어지는 프로토타입을 만들었습니다. [원본 아키텍처 11장](assets/gs-ai-prototypes/README.md)에서 개별 앱과 후속 확장 설계를 확인할 수 있습니다.
+[GS AI 앱 사례](case-studies/14-gs-ai-intelligence-prototypes.md)에서는 시장·경쟁사와 고객 정보를 어떤 업무에 사용할지 정하고 외부 API, AI 분석, Slack 보고서로 이어지는 프로토타입을 만들었습니다. 시제품의 범위와 실제 고객 운영 범위를 구분합니다.
 
 ## Publication & Learning
 
 - **『슬랙, 일의 언어를 바꾸다』** — 강지원 저 · 틔움출판 · 2026.08.03 출간.
 - **『고객 소멸 시대 마케팅 어떻게 할 것인가』** — 고사카 유지 저 · 강지원 역 · 파지트 · 2022.01.12 출간. 일본어 원서 번역 출판.
-- Salesforce Administrator·Slack Administrator·Sales Representative 등 자격 취득 이력과 OpenAI·ChatGPT·Codex 인증서 10종을 취득했고, API Expert·ChatGPT Expert·Codex Expert의 모든 레벨을 달성했습니다. Slack 배지 19개, Salesforce 실습 배지, Claude·Notion 및 비즈니스·데이터 학습 이력도 함께 제공합니다.
+- Salesforce Administrator·Slack Administrator·Sales Representative 등 자격 취득 이력과 OpenAI·ChatGPT·Codex 학습 인증서 11종(2026.10.28 기준)을 취득했고, API Expert·ChatGPT Expert·Codex Expert의 모든 레벨을 달성했습니다. Slack 배지 19개, Salesforce 실습 배지, Claude·Notion 및 비즈니스·데이터 학습 이력도 함께 제공합니다.
 - [자격·학습·대외 발표·출간 이력](professional-development.md) · [공개 기술 프로젝트](public-projects/README.md)
 
 ## About
