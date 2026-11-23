@@ -2,6 +2,26 @@
 
 고객의 도입·운영 과제를 이해하기 위해 SaaS 관리자 역량, AI 활용, 고객 가치와 업무 설계 학습을 이어가고 있습니다. 자격 취득 이력, 교육 수료·실습 배지, 출간 결과를 구분해 정리했습니다.
 
+## AI Certificates — 2026
+
+2026년 10월 28일 작성한 기존 이력서 기준, OpenAI 관련 학습 인증서 11종을 보유하고 있습니다. 아래 날짜는 인증서에 표시된 유효기한입니다.
+
+| 인증서명 | 유효기한 |
+|---|---|
+| OpenAI Consultative Solutions Practitioner | 2027-10-07 |
+| OpenAI Foundational Knowledge | 2027-10-07 |
+| ChatGPT Deployment Practitioner | 2027-10-07 |
+| Codex Solutions Practitioner | 2027-10-07 |
+| ChatGPT Solutions Practitioner | 2027-10-07 |
+| OpenAI Technical Practitioner | 2027-10-07 |
+| OpenAI Cyber Solutions Practitioner | 2027-10-07 |
+| API Deployment Practitioner | 2027-10-07 |
+| OpenAI Cyber Deployment Practitioner | 2027-10-08 |
+| Codex Deployment Practitioner | 2027-10-08 |
+| OpenAI Advanced Cyber Deployment Practitioner | 2027-10-21 |
+
+[2026-10-08 기준 인증서 10종 확인 화면](assets/credentials/openai-ten-certificates-2026-10-08.png)
+
 ## SaaS Qualifications
 
 본인이 제공한 경력자료와 LinkedIn 자격 이력을 기준으로 정리한 취득 이력입니다.
@@ -16,28 +36,9 @@
 
 Salesforce AI Associate는 [공식 종료 안내](https://partners.salesforce.com/pdx/s/pcnews/changes-coming-to-the-ai-associate-certification-MCEQK4WPR3YRA2DKCTPCCPCELCEU?language=ja)에 따라 취득 이력으로 표시했습니다. 개인별 현재 유지 상태는 별도 조회하지 않았습니다.
 
-## AI Certificates — 2026
-
-2026년 10월 8일 제공한 최신 인증서 화면에 표시된 10종 모두 취득했습니다. 기존 8종은 2027년 10월 7일까지, 새로 추가된 OpenAI Cyber Deployment Practitioner와 Codex Deployment Practitioner는 2027년 10월 8일까지 유효합니다. Consultative Solutions Practitioner의 발행월은 LinkedIn 기재 기준 2026년 10월입니다.
-
-| 인증서명 | 유효기한 |
-|---|---|
-| OpenAI Consultative Solutions Practitioner | 2027-10-07 |
-| OpenAI Foundational Knowledge | 2027-10-07 |
-| ChatGPT Deployment Practitioner | 2027-10-07 |
-| Codex Solutions Practitioner | 2027-10-07 |
-| ChatGPT Solutions Practitioner | 2027-10-07 |
-| OpenAI Technical Practitioner | 2027-10-07 |
-| OpenAI Cyber Solutions Practitioner | 2027-10-07 |
-| API Deployment Practitioner | 2027-10-07 |
-| OpenAI Cyber Deployment Practitioner | 2027-10-08 |
-| Codex Deployment Practitioner | 2027-10-08 |
-
-[인증서 10종 확인 화면](assets/credentials/openai-ten-certificates-2026-10-08.png)
-
 ## AI Expert Skills — All Levels Achieved
 
-API Expert, ChatGPT Expert, Codex Expert의 모든 레벨을 달성했습니다. 아래는 학습 플랫폼의 스킬 배지이며, 위 인증서 10종과 구분해 기재합니다.
+API Expert, ChatGPT Expert, Codex Expert의 모든 레벨을 달성했습니다. 아래는 학습 플랫폼의 스킬 배지이며, 위 인증서와 구분해 기재합니다.
 
 | 스킬 배지 | 화면 표시 상태 | 확인 화면 |
 |---|---|---|
